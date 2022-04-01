@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
+    <meta charset="UTF-8">
     <title>Document</title>
   </head>
   <body>
@@ -9,10 +9,7 @@
       <h1>22-1 공개SW프로젝트</h1>
     </center>
     <!-- Link -->
-    <table
-      border="1"
-      style="margin: auto; width: 20%; height: fit-content; text-align: center"
-    >
+    <table border="1" style="margin:auto; width:20%; height:fit-content; text-align: center;">
       <tr>
         <th>이름</th>
         <th>링크</th>
@@ -20,11 +17,11 @@
       <tr>
         <td>
           <!-- Edit Name -->
-          <p>고나형</p>
+          <p>-</p>
         </td>
         <td>
           <!-- Edit href -->
-          <a href="./knh.html">Link</a>
+          <a href="./-.html">Link</a>
         </td>
       </tr>
       <tr>
@@ -37,21 +34,22 @@
       </tr>
       <tr>
         <td>
-          <p>이승헌</p>
+          <p>-</p>
         </td>
         <td>
-          <a href="./lsh.html">Link</a>
+          <a href="./-.html">Link</a>
         </td>
       </tr>
       <tr>
         <td>
-          <p>이지민</p>
+          <p>-</p>
         </td>
         <td>
-          <a href="./ljm.html">Link</a>
+          <a href="./-.html">Link</a>
         </td>
       </tr>
     </table>
-    <div></div>
+    <div>
+    </div>
   </body>
 </html>
